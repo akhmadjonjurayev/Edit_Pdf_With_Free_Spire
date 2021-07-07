@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "S/ef9Nm8xQGMzvuQiVmB8/i3gHOrPfSkyUnYv+xZLk0ZzZ4ZNri7IVtKhfDRUvmr+nPthAx8ggX6K1sR3rLLDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WebDeveloper\\source\\repos\\Edit_Pdf_Free_Spire\\Edit_Pdf_Free_Spire\\Edit_Pdf_Free_Spire.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WebDeveloper\\.nuget\\packages\\freespire.pdf\\7.2.0\\freespire.pdf.7.2.0.nupkg.sha512",
+    "C:\\Users\\WebDeveloper\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\WebDeveloper\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\WebDeveloper\\.nuget\\packages\\skiasharp\\1.68.0\\skiasharp.1.68.0.nupkg.sha512",
+    "C:\\Users\\WebDeveloper\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\WebDeveloper\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\WebDeveloper\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\WebDeveloper\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Users\\WebDeveloper\\.nuget\\packages\\system.text.encoding.codepages\\4.5.0\\system.text.encoding.codepages.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
